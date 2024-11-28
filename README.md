@@ -14,4 +14,5 @@ Para ter acesso a esse site entre em <https://AnaLuiza74.github.io>
 
 ## Autores
 Abaixo alguns links para as minhas redes:
-<a href="https://instagram.com/ana_luiza_bastos">Instagram</a>
+- [Linkedin] (https://linkedin.com/in/analuizabastos)
+- <a href="https://instagram.com/ana_luiza_bastos">Instagram</a>
