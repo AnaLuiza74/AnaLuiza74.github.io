@@ -10,5 +10,8 @@ Para ter acesso a esse site entre em <https://AnaLuiza74.github.oi>
 **Obs:** hospedado no github
 
 ## Acessando o site
-Para ter acesso a esse site entre em <https://AnaLuiza74.github.io>
+Para ter acesso a esse site entre em <https://AnaLuiza74.github.io> 
 
+## Autores
+Abaixo alguns links para as minhas redes:
+<a href="https://instagram.com/ana_luiza_bastos">Instagram</a>
